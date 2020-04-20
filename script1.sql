@@ -17,7 +17,7 @@ set define off;
   
 BEGIN
 /* -------------------------------------------------------------------------*
-Procedure       : ETL_LOAD_CORE_MGR_ACJH
+Procedure       : ETL_LOAD_CORE_MGR_ACJHXXX
 Author          : Harsha
 Date Created    : 30/06/2017
 Date Last Mod.  :
